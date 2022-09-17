@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week and includes links to
+  lecture summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
